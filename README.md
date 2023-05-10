@@ -1,11 +1,11 @@
 
+<!DOCTYPE html>
 <html>
-<head>
-  <title>Receitas Show</title>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
- 
-</head>
+<header>
+	
+  <title> Receitas Show </title>
+
+</header>
 <body>
   <h1>Receitas Show</h1>
   
