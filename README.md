@@ -1,10 +1,9 @@
 
 <!DOCTYPE html>
 <html>
-<header>
-  <title> Receitas Show
-  </title>
-</header>
+<head>
+	<title> RECEITAS SHOW </title>
+</head>
 	
 <body>
   <h1>Receitas Show</h1>
