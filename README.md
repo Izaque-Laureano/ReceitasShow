@@ -3,7 +3,8 @@
 <html>
 <header>
 	
-  <title> Receitas Show </title>
+  <title> Receitas Show
+  </title>
 
 </header>
 <body>
