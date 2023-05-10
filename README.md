@@ -5,8 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
-    /* Adicione aqui o estilo do seu README */
-    body {
+       body {
       font-family: Arial, sans-serif;
       color: #333;
       background-color: #fff;
