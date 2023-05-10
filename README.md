@@ -87,3 +87,4 @@
     <li>Adicione sua receita à lista de receitas no script "Receitas.cs"</li>
     <li>Commit suas alterações: git commit -m "Adicionando minha receita"</li>
     <li>Push para a branch remota
+    </body>
