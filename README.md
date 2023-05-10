@@ -2,7 +2,62 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title> RECEITAS SHOW </title>
+<style>
+       body {
+      font-family: Arial, sans-serif;
+      color: #333;
+      background-color: #fff;
+      margin: 0;
+      padding: 0;
+    }
+    
+    h1, h2, h3, h4, h5, h6 {
+      font-weight: bold;
+    }
+    
+    h1 {
+      font-size: 2.5rem;
+      margin-top: 2rem;
+      margin-bottom: 1rem;
+    }
+    
+    h2 {
+      font-size: 2rem;
+      margin-top: 2rem;
+      margin-bottom: 1rem;
+    }
+    
+    h3 {
+      font-size: 1.5rem;
+      margin-top: 1.5rem;
+      margin-bottom: 0.5rem;
+    }
+    
+    p {
+      font-size: 1.1rem;
+      margin-top: 0.5rem;
+      margin-bottom: 0.5rem;
+    }
+    
+    ul, ol {
+      margin-top: 0.5rem;
+      margin-bottom: 0.5rem;
+    }
+    
+    li {
+      font-size: 1.1rem;
+      margin-top: 0.25rem;
+      margin-bottom: 0.25rem;
+    }
+    
+    code {
+      font-family: Consolas, monospace;
+      font-size: 0.9rem;
+      background-color: #f0f0f0;
+      padding: 0.25rem;
+      border-radius: 3px;
+    }
+  </style>
 </head>
 	
 <body>
