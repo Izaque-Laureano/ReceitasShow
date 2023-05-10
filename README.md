@@ -2,11 +2,10 @@
 <!DOCTYPE html>
 <html>
 <header>
-	
   <title> Receitas Show
   </title>
-
 </header>
+	
 <body>
   <h1>Receitas Show</h1>
   
